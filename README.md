@@ -65,45 +65,22 @@
 * [Shopping Cart Starter Project](https://github.com/londonappbrewery/quizzler-flutter)
 * [Shopping Cart Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
-## Section 11: Boss Level Challenge 2 - Destini
+## Section 9: Building Flutter UIs for Intermediates
 
-* [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
-* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
-
-## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
-
-* [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
-* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
-* [Ruben Vaalt's beautiful BMI Calculator Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+* [Starter App](https://github.com/selfmed/playerapp-flutter)
 * [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
-* [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
 * [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
-* [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
-* [The Key Class](https://docs.flutter.io/flutter/foundation/Key-class.html)
 * [When to Use Keys - Flutter Widgets 101 Ep. 4](https://www.youtube.com/watch?v=kn0EOS-ZiIc)
-* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
-* [Font Awesome Flutter Package](https://pub.dartlang.org/packages/font_awesome_flutter)
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
-* [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
-* [ShapeBorder Class](https://docs.flutter.io/flutter/painting/ShapeBorder-class.html)
-* [RawMaterialButton Class](https://docs.flutter.io/flutter/material/RawMaterialButton-class.html)
-* [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
-* [LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
-* [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
-* [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
-* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
+* [Completed App](https://github.com/selfmed/player-advanced-flutter-completed)
 
-## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
+## Section 10: Climate App - Flutter App with Live Weather Web Data
  
-* [Clima Stub Project](https://github.com/londonappbrewery/Clima-Flutter)
+* [ClimateApp Starter Project](https://github.com/selfmed/climate-update-flutter)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
-* [Android X Compatilibity](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
-* [Starter Code Snippet for Async Await Demo](https://gist.github.com/angelabauer/c19c42b7795a185d2113f3b47263d2c0)
-* [Illustrating Lifecycles with the LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
-* [Location Refactoring Challenge Instructions](https://github.com/londonappbrewery/Clima-Flutter-Location-Refactor-Challenge)
 * [OpenWeatherMap APIs](https://openweathermap.org/api)
 * [Fetching Data from the Internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
 * [The Dart http package](https://pub.dartlang.org/packages/http)
@@ -118,25 +95,9 @@
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
-* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
+* [ClimateApp Completed](https://github.com/selfmed/climate-update-flutter-completed)
 
-## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
-
-* [Bitcoin Ticker Stub Project](https://github.com/londonappbrewery/bitcoin-ticker-flutter)
-* [Flutter DropdownButton](https://docs.flutter.io/flutter/material/DropdownButton-class.html)
-* [Dropdown Menu Design](https://material.io/design/components/menus.html#dropdown-menu)
-* [99 Bottles of Beer Programming Language Collection](http://www.99-bottles-of-beer.net/)
-* [DartPad For in Loop Mini Challenge](https://dartpad.dartlang.org/88fd2dd04c921892515bcd0567ef1636)
-* [Cupertino (iOS) Style Widgets](https://flutter.dev/docs/development/ui/widgets/cupertino)
-* [CupertinoPicker Class Documentation](https://docs.flutter.io/flutter/cupertino/CupertinoPicker-class.html)
-* [Register for a coinapi.io API key](https://www.coinapi.io/Pricing)
-* [Coin API Docs](https://docs.coinapi.io/)
-* [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
-* [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
-* [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
-* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
-
-## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
+## Section 11: Flash Chat - Flutter x Firebase Cloud Firestore
 
 * [Flash Chat Stub Project](https://github.com/londonappbrewery/flash-chat-flutter)
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
@@ -164,7 +125,7 @@
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
 * [Flash Chat Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
 
-## Section 16: Flutter State Management
+## Section 12: Flutter State Management
 
 * [State Management Example](https://github.com/londonappbrewery/state_management-flutter.git)
 * [Todoey Design Guide](https://drive.google.com/uc?export=download&id=1Kz6y_DZA6slg-56kktB4Svkk1XNY8ACX)
