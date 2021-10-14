@@ -35,9 +35,9 @@
 * [Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
 * [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
-* [BuildingLayouts Completed Project]()
+* [BuildingLayouts Completed Project](https://github.com/selfmed/building-layouts-flutter-completed)
 
-## Section 5: DART Language - PART 1
+## Section 5: DART Language - PART I
 
 * [Run code on DartPad](https://dartpad.dartlang.org/)
 * [Dart Variables](https://dart.dev/guides/language/language-tour#variables)
@@ -49,17 +49,21 @@
 
 * [MusicPlayer Starter Project](https://github.com/selfmed/playerapp-flutter)
 * [TextButton Documentation](https://api.flutter.dev/flutter/material/TextButton-class.html)
-* [MusicPlayer Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [MusicPlayer Completed Project](https://github.com/selfmed/player-app-flutter-completed)
 
-## Section 10: Quizzler - Modularising & Organising Flutter Code
+## Section 7: DART Language - PART II
 
-* [Quizzler Stub Project](https://github.com/londonappbrewery/quizzler-flutter)
-* [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
-* [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
-* [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
-* [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
-* [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
-* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Run code on DartPad](https://dartpad.dartlang.org/)
+* [Dart Classes & Objects](https://dart.dev/guides/language/language-tour#classes)
+* [Dart Constructors](https://dart.dev/guides/language/language-tour#using-constructors)
+* [Dart Lists](https://dart.dev/guides/language/language-tour#lists)
+* [Dart Maps](https://dart.dev/guides/language/language-tour#maps)
+
+
+## Section 8: Shopping Cart App - Modularising & Organising Flutter Code
+
+* [Shopping Cart Starter Project](https://github.com/londonappbrewery/quizzler-flutter)
+* [Shopping Cart Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
 ## Section 11: Boss Level Challenge 2 - Destini
 
