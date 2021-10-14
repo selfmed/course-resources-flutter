@@ -37,24 +37,17 @@
 * [Card Class Documentation](https://docs.flutter.io/flutter/material/Card-class.html)
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
-* [MyApp Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
+* [BuildingLayouts Completed Project]()
 
-## Section 7: Dicee - Building Apps with State
+## Section 5: DART Language - PART 1
 
-* [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
-* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
-* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-* [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
-* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
-* [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
-* [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
-* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
+* [Run code on DartPad](https://dartpad.dartlang.org/)
+* [DART Variables](https://dart.dev/guides/language/language-tour#variables)
+* [DART Datatypes](https://dart.dev/guides/language/language-tour#built-in-types)
+* [DART Functions](https://dart.dev/guides/language/language-tour#functions)
+* [DART IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
 
-## Section 8: Boss Level Challenge 1 - Magic 8 Ball
-
-* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
-
-## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
+## Section 6: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
 * [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
