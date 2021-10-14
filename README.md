@@ -34,9 +34,7 @@
 * [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
 * [Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
 * [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
-* [Card Class Documentation](https://docs.flutter.io/flutter/material/Card-class.html)
-* [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
-* [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
+* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [BuildingLayouts Completed Project]()
 
 ## Section 5: DART Language - PART 1
@@ -47,15 +45,11 @@
 * [Dart Functions](https://dart.dev/guides/language/language-tour#functions)
 * [Dart IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
 
-## Section 6: Xylophone - Using Flutter and Dart Packages to Speed Up Development
+## Section 6: Music Player - Flutter App with State
 
-* [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
-* [Flutter Packages](https://pub.dartlang.org/flutter)
-* [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
-* [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
-* [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
-* [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
+* [MusicPlayer Starter Project](https://github.com/selfmed/playerapp-flutter)
+* [TextButton Documentation](https://api.flutter.dev/flutter/material/TextButton-class.html)
+* [MusicPlayer Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
 
