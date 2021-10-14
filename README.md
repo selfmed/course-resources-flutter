@@ -42,10 +42,10 @@
 ## Section 5: DART Language - PART 1
 
 * [Run code on DartPad](https://dartpad.dartlang.org/)
-* [DART Variables](https://dart.dev/guides/language/language-tour#variables)
-* [DART Datatypes](https://dart.dev/guides/language/language-tour#built-in-types)
-* [DART Functions](https://dart.dev/guides/language/language-tour#functions)
-* [DART IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
+* [Dart Variables](https://dart.dev/guides/language/language-tour#variables)
+* [Dart Datatypes](https://dart.dev/guides/language/language-tour#built-in-types)
+* [Dart Functions](https://dart.dev/guides/language/language-tour#functions)
+* [Dart IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
 
 ## Section 6: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
