@@ -90,8 +90,6 @@
 * [HTTP Package API Reference](https://pub.dartlang.org/documentation/http/latest/)
 * [HTTP Response Class Documentation](https://pub.dartlang.org/documentation/http/latest/http/Response-class.html)
 * [List of HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Chrome Plugin for Formatting and Viewing JSON](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe?hl=en)
-* [JSON Mate: Formatting and Viewing JSON without a plugin](http://jsonmate.com/)
 * [The State Class](https://docs.flutter.io/flutter/widgets/State-class.html)
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
