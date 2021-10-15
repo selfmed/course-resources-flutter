@@ -45,11 +45,11 @@
 * [Dart Functions](https://dart.dev/guides/language/language-tour#functions)
 * [Dart IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
 
-## Section 6: Music Player - Flutter App with State
+## Section 6: Song Play/Pause - Flutter App with State
 
-* [MusicPlayer Starter Project](https://github.com/selfmed/playerapp-flutter)
+* [Starter Project](https://github.com/selfmed/song-play-pause-flutter)
 * [TextButton Documentation](https://api.flutter.dev/flutter/material/TextButton-class.html)
-* [MusicPlayer Completed Project](https://github.com/selfmed/player-app-flutter-completed)
+* [Completed Project](https://github.com/selfmed/song-play-pause-flutter-completed)
 
 ## Section 7: DART Language - PART II
 
@@ -60,9 +60,9 @@
 * [Dart Maps](https://dart.dev/guides/language/language-tour#maps)
 
 
-## Section 8: Shopping Cart App - Modularising & Organising Flutter Code
+## Section 8: Shopping Cart Functionality - Modularising & Organising Flutter Code
 
-* [Shopping Cart Starter Project](https://github.com/londonappbrewery/quizzler-flutter)
+* [Shopping Cart Starter Project](https://github.com/selfmed/shoppingcart-flutter)
 * [Shopping Cart Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
 ## Section 9: Building Flutter UIs for Intermediates
@@ -97,7 +97,7 @@
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
 * [ClimateApp Completed](https://github.com/selfmed/climate-update-flutter-completed)
 
-## Section 11: Flash Chat - Flutter x Firebase Cloud Firestore
+## Section 11: ChatApp - Flutter & Firebase Cloud Firestore
 
 * [ChatApp Starter Project](https://github.com/selfmed/chat-app-flutter)
 * [Create Firebase Account](https://firebase.google.com/)
