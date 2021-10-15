@@ -40,10 +40,10 @@
 ## Section 5: DART Language - PART I
 
 * [Run code on DartPad](https://dartpad.dartlang.org/)
-* [Dart Variables](https://dart.dev/guides/language/language-tour#variables)
-* [Dart Datatypes](https://dart.dev/guides/language/language-tour#built-in-types)
-* [Dart Functions](https://dart.dev/guides/language/language-tour#functions)
-* [Dart IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
+* [Variables](https://dart.dev/guides/language/language-tour#variables)
+* [Datatypes](https://dart.dev/guides/language/language-tour#built-in-types)
+* [Functions](https://dart.dev/guides/language/language-tour#functions)
+* [IF/ELSE Conditionals](https://dart.dev/guides/language/language-tour#if-and-else)
 
 ## Section 6: Song Play/Pause - Flutter App with State
 
@@ -54,11 +54,12 @@
 ## Section 7: DART Language - PART II
 
 * [Run code on DartPad](https://dartpad.dartlang.org/)
-* [Dart Classes & Objects](https://dart.dev/guides/language/language-tour#classes)
-* [Dart Constructors](https://dart.dev/guides/language/language-tour#using-constructors)
-* [Dart Lists](https://dart.dev/guides/language/language-tour#lists)
-* [Dart Maps](https://dart.dev/guides/language/language-tour#maps)
-* [Dart Exception Handling](https://dart.dev/guides/language/language-tour#exceptions)
+* [Classes & Objects](https://dart.dev/guides/language/language-tour#classes)
+* [Constructors](https://dart.dev/guides/language/language-tour#using-constructors)
+* [Lists](https://dart.dev/guides/language/language-tour#lists)
+* [Maps](https://dart.dev/guides/language/language-tour#maps)
+* [Exception Handling](https://dart.dev/guides/language/language-tour#exceptions)
+* [Exception Hadling Code Sample](https://github.com/selfmed/exception-handling-sample)
 
 
 ## Section 8: Shopping Cart Functionality - Modularising & Organising Flutter Code
