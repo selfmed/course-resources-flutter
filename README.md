@@ -49,6 +49,8 @@
 
 * [Starter Project](https://github.com/selfmed/song-play-pause-flutter)
 * [TextButton Documentation](https://api.flutter.dev/flutter/material/TextButton-class.html)
+* [App Icon](https://github.com/selfmed/app-icon-flutter)
+* [Generate App Icons with AppIcon.co](https://appicon.co/)
 * [Completed Project](https://github.com/selfmed/song-play-pause-flutter-completed)
 
 ## Section 7: DART Language - PART II
