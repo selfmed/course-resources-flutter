@@ -58,6 +58,7 @@
 * [Dart Constructors](https://dart.dev/guides/language/language-tour#using-constructors)
 * [Dart Lists](https://dart.dev/guides/language/language-tour#lists)
 * [Dart Maps](https://dart.dev/guides/language/language-tour#maps)
+* [Dart Exception Handling](https://dart.dev/guides/language/language-tour#exceptions)
 
 
 ## Section 8: Shopping Cart Functionality - Modularising & Organising Flutter Code
