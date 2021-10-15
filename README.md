@@ -63,11 +63,11 @@
 ## Section 8: Shopping Cart Functionality - Modularising & Organising Flutter Code
 
 * [Shopping Cart Starter Project](https://github.com/selfmed/shoppingcart-flutter)
-* [Shopping Cart Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
+* [Shopping Cart Completed Project](https://github.com/selfmed/shopping-cart-flutter-completed)
 
 ## Section 9: Building Flutter UIs for Intermediates
 
-* [Starter App](https://github.com/selfmed/playerapp-flutter)
+* [Starter App](https://github.com/selfmed/player-advanced-flutter)
 * [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
@@ -79,7 +79,7 @@
 
 ## Section 10: Climate App - Flutter App with Live Weather Web Data
  
-* [ClimateApp Starter Project](https://github.com/selfmed/climate-update-flutter)
+* [ClimateApp Starter Project](https://github.com/selfmed/climate-app-flutter)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [OpenWeatherMap APIs](https://openweathermap.org/api)
 * [Fetching Data from the Internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
@@ -95,7 +95,7 @@
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
-* [ClimateApp Completed](https://github.com/selfmed/climate-update-flutter-completed)
+* [ClimateApp Completed](https://github.com/selfmed/climate-app-flutter-completed)
 
 ## Section 11: ChatApp - Flutter & Firebase Cloud Firestore
 
