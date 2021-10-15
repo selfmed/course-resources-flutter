@@ -100,7 +100,7 @@
 ## Section 11: Flash Chat - Flutter x Firebase Cloud Firestore
 
 * [ChatApp Starter Project](https://github.com/selfmed/chat-app-flutter)
-* [Create your Firebase Account Here](https://firebase.google.com/)
+* [Create Firebase Account](https://firebase.google.com/)
 * [Firebase Core Package for Flutter](https://pub.dartlang.org/packages/firebase_core)
 * [Firebase Auth Package for Flutter](https://pub.dartlang.org/packages/firebase_auth)
 * [Cloud Firestore Package for Flutter](https://pub.dartlang.org/packages/cloud_firestore)
@@ -109,20 +109,19 @@
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
-* [ChatApp Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
+* [ChatApp Completed Project](https://github.com/selfmed/chat-app-flutter-completed)
 
 ## Section 12: Flutter State Management
 
-* [State Management Example](https://github.com/londonappbrewery/state_management-flutter.git)
-* [Todoey Design Guide](https://drive.google.com/uc?export=download&id=1Kz6y_DZA6slg-56kktB4Svkk1XNY8ACX)
+* [State Management Example](https://github.com/selfmed/state-management-flutter)
+* [DailyPlanner Starter Project](https://github.com/selfmed/daily-planner-flutter)
 * [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
 * [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
 * [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
 * [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
-* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
 * [The Provider Package](https://pub.dev/packages/provider)
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
-* [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
+* [DailyPlanner Completed Project](https://github.com/selfmed/daily-planner-flutter-completed)
 
 
 
