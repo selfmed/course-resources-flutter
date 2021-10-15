@@ -5,7 +5,7 @@
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1esgDl2OXfzPX0wNVzJ2r02cwSk05AlwK)
 
 
-## Section 2: Setup Flutter Development Environment
+## Section 2: Setup & Installation
 
 * [Installing Flutter](https://flutter.dev/docs/get-started/install)
 * [Git for Windows](https://git-scm.com/download/win)
