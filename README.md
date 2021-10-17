@@ -111,6 +111,7 @@
 * [Firebase Documentation](https://firebase.google.com/docs/)
 * [StreamBuilder Class Documentation](https://docs.flutter.io/flutter/widgets/StreamBuilder-class.html)
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
+* [Dart: For Loops](https://dart.dev/guides/language/language-tour#for-loops)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
 * [ChatApp Completed Project](https://github.com/selfmed/chat-app-flutter-completed)
