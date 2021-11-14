@@ -24,7 +24,7 @@
 * [Pubspec File - Learn More](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 
-## Section 4: Building Layouts
+## Section 4: Flutter Widgets for Building Beautiful UIs
 
 * [Flutter Widgets](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
