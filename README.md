@@ -57,10 +57,10 @@
 
 * [Run code on DartPad](https://dartpad.dartlang.org/)
 * [Classes & Objects](https://dart.dev/guides/language/language-tour#classes)
-* [Constructors](https://dart.dev/guides/language/language-tour#using-constructors)
-* [Lists](https://dart.dev/guides/language/language-tour#lists)
-* [Maps](https://dart.dev/guides/language/language-tour#maps)
-* [Exception Handling](https://dart.dev/guides/language/language-tour#exceptions)
+* [Class Constructors](https://dart.dev/guides/language/language-tour#using-constructors)
+* [Dart Lists](https://dart.dev/guides/language/language-tour#lists)
+* [Dart Maps](https://dart.dev/guides/language/language-tour#maps)
+* [Exception Handling in Dart](https://dart.dev/guides/language/language-tour#exceptions)
 * [Exception Hadling Code Sample](https://github.com/selfmed/exception-handling-sample)
 
 
