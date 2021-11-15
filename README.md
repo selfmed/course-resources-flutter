@@ -72,7 +72,7 @@
 ## Section 9: Building Flutter UIs for Intermediates
 
 * [Starter App](https://github.com/selfmed/player-advanced-flutter)
-* [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
+* [Flutter Themes](https://flutter.dev/docs/cookbook/design/themes)
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
 * [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
