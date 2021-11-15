@@ -77,6 +77,7 @@
 * [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
 * [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
 * [When to Use Keys - Flutter Widgets 101 Ep. 4](https://www.youtube.com/watch?v=kn0EOS-ZiIc)
+* [Sound Null Safety] (https://dart.dev/null-safetyhttps://dart.dev/null-safety)
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
 * [Completed App](https://github.com/selfmed/player-advanced-flutter-completed)
