@@ -95,7 +95,7 @@
 * [List of HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [The State Class](https://docs.flutter.io/flutter/widgets/State-class.html)
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
-* [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+* [Navigating between Screens in Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
 * [Navigation Demo App](https://github.com/selfmed/navigation-demo-flutter/tree/main/lib)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
