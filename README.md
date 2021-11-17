@@ -2,7 +2,7 @@
 
 ## Section 1: Syllabus
 
-* [Download the Course Syllabus](https://drive.google.com/uc?export=download&hWqrI7xwXbXZ8U2jVy8V7bk5T9y)
+* [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=hWqrI7xwXbXZ8U2jVy8V7bk5T9y)
 
 
 ## Section 2: Setup & Installation
